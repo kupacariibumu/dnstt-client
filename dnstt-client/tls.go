@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"www.bamsoftware.com/git/dnstt.git/turbotunnel"
+	"github.com/Haris131/dnstt.git/turbotunnel"
 )
 
 const dialTimeout = 30 * time.Second

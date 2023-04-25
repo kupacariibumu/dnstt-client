@@ -11,8 +11,8 @@ import (
 	"net"
 	"time"
 
-	"www.bamsoftware.com/git/dnstt.git/dns"
-	"www.bamsoftware.com/git/dnstt.git/turbotunnel"
+	"github.com/Haris131/dnstt.git/dns"
+	"github.com/Haris131/dnstt.git/turbotunnel"
 )
 
 const (

@@ -51,9 +51,9 @@ import (
 
 	"github.com/xtaci/kcp-go/v5"
 	"github.com/xtaci/smux"
-	"www.bamsoftware.com/git/dnstt.git/dns"
-	"www.bamsoftware.com/git/dnstt.git/noise"
-	"www.bamsoftware.com/git/dnstt.git/turbotunnel"
+	"github.com/Haris131/dnstt.git/dns"
+	"github.com/Haris131/dnstt.git/noise"
+	"github.com/Haris131/dnstt.git/turbotunnel"
 )
 
 const (
