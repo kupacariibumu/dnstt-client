@@ -1,4 +1,4 @@
-module www.bamsoftware.com/git/dnstt.git
+module github.com/Haris131/dnstt.git
 
 go 1.18
 
@@ -9,6 +9,7 @@ require (
 	github.com/xtaci/smux v1.5.24
 	golang.org/x/crypto v0.8.0
 	golang.org/x/net v0.9.0
+	www.bamsoftware.com/git/dnstt.git v1.20220208.0
 )
 
 require (
