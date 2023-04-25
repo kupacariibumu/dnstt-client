@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/Haris131/dnstt.git/dns"
+	"github.com/Haris131/dnstt/dns"
 )
 
 func TestDNSNameCapacity(t *testing.T) {

@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Haris131/dnstt.git/turbotunnel"
+	"github.com/Haris131/dnstt/turbotunnel"
 )
 
 // A default Retry-After delay to use when there is no explicit Retry-After

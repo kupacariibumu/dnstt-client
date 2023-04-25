@@ -11,8 +11,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/Haris131/dnstt.git/dns"
-	"github.com/Haris131/dnstt.git/turbotunnel"
+	"github.com/Haris131/dnstt/dns"
+	"github.com/Haris131/dnstt/turbotunnel"
 )
 
 const (

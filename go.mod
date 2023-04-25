@@ -1,4 +1,4 @@
-module github.com/Haris131/dnstt.git
+module github.com/Haris131/dnstt
 
 go 1.18
 

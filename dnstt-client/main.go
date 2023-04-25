@@ -51,9 +51,9 @@ import (
 	utls "github.com/refraction-networking/utls"
 	"github.com/xtaci/kcp-go/v5"
 	"github.com/xtaci/smux"
-	"github.com/Haris131/dnstt.git/dns"
-	"github.com/Haris131/dnstt.git/noise"
-	"github.com/Haris131/dnstt.git/turbotunnel"
+	"github.com/Haris131/dnstt/dns"
+	"github.com/Haris131/dnstt/noise"
+	"github.com/Haris131/dnstt/turbotunnel"
 )
 
 // smux streams will be closed after this much time without receiving data.
